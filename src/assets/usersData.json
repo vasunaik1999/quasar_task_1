@@ -1,0 +1,29 @@
+[
+  {
+    "userId": null,
+    "username": "admin",
+    "password": "password",
+    "fullName": "Admin User",
+    "email": "admin@ft.com",
+    "phoneNumber": "8989898989",
+    "designation": "admin"
+  },
+  {
+    "userId": 1,
+    "username": "user1",
+    "password": "password1",
+    "fullName": "User One",
+    "email": "user1@ft.com",
+    "phoneNumber": "123-456-7890",
+    "designation": "user"
+  },
+  {
+    "userId": 2,
+    "username": "user2",
+    "password": "password2",
+    "fullName": "Jane Smith",
+    "email": "user2@ft.com",
+    "phoneNumber": "987-654-3210",
+    "designation": "user"
+  }
+]
